@@ -1,5 +1,5 @@
 The 2024 August Intake Semester (After Final Exam)
-# Tips for **IT5001**
+# Tips for **IT5001 Software Development Fundamentals **
 
 ## 1. Utilize Course Materials
 - **Learning Resources**: The professor will upload all the materials from past semesters on **Coursemology**.
