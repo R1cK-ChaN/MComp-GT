@@ -1,4 +1,4 @@
-The 2024 August Intake Semester (After Final Exam)
+A2425 Sem1 (After Final Exam)
 # Tips for **IT5001 Software Development Fundamentals**
 
 ## 1. Utilize Course Materials
